@@ -1,2 +1,1 @@
-# ejercicios-dsw
-Ejercitacion de Desarrollo de Software - UTN
+# Ejercicios Desarrollo de Software
